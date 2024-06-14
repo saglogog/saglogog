@@ -6,7 +6,14 @@
     <description>Recent content on WELCOME Who Da Thunk It</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 20:16:31 +0300</lastBuildDate>
     <atom:link href="https://whodathunk.it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://whodathunk.it/posts/first-post/</link>
+      <pubDate>Fri, 14 Jun 2024 20:16:31 +0300</pubDate>
+      <guid>https://whodathunk.it/posts/first-post/</guid>
+      <description>Introduction This is a PENIS, and this is ass.&#xA;Visit HUGO!</description>
+    </item>
   </channel>
 </rss>
