@@ -1,0 +1,5 @@
+baseURL = 'https://whodathunk.it/'
+languageCode = 'en-us'
+title = 'WELCOME Who Da Thunk It'
+theme = 'archie'
+
